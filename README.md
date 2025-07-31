@@ -1,4 +1,4 @@
-# 🛍️ Fashion Store
+# 👗🛍️ Elegance Store
 
 Una aplicación de e-commerce moderna y elegante desarrollada con Streamlit, que ofrece una experiencia de compra premium con autenticación OAuth, gestión de carrito y procesamiento de pagos seguro.
 
